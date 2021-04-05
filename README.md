@@ -1,3 +1,2 @@
-# SW_ota_server
-Google run instance with simple web server
-
+# Cloud Function Typescript
+Google function stub with Typescript, eslint, etc.
